@@ -1,0 +1,13 @@
+- User
+- Expense
+- split algo interface
+    - by amount
+    - equal
+- some sort of orchestrator that splits
+    - should receive request from user, that includes participants, amount, split strat
+    - sends the split to other participant
+- CLI
+- History, current pending, owed for user?
+- Payment gateway wiring?
+
+- some way to add contacts for requests?
